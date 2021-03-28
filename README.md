@@ -4,7 +4,7 @@ Back propogation in pure Python =)
 
 Dataset 
 ------------------- 
-The model was trained/tested on a datasets from UCI containing 11 features and quality score between 0-10.
+The model was trained/tested on a [dataset](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) from UCI containing 11 features and quality score between 0-10.
 
 * 1 - fixed acidity
 * 2 - volatile acidity
@@ -19,4 +19,3 @@ The model was trained/tested on a datasets from UCI containing 11 features and q
 * 11 - alcohol
 * Output variable (based on sensory data):
 * 12 - quality (score between 0 and 10)
-[Wine qualities](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
