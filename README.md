@@ -1,6 +1,6 @@
-Wine-Classifier
+SGD in pure Python
 -------------------
-Back propogation in pure Python =)
+Developed a simple neural network using the stochastic gradient descent algorithm for optimization in pure python. I trained and evaluated my model on a dataset containing various wine qualities.
 
 Dataset 
 ------------------- 
