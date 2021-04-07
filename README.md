@@ -1,6 +1,6 @@
 SGD in pure Python
 -------------------
-Developed a simple neural network using the stochastic gradient descent algorithm for optimization in pure python. I trained and evaluated my model on a dataset containing various wine qualities.
+Developed a simple neural network using stochastic gradient descent for optimization in pure python. I trained and evaluated my model on a dataset containing various wine qualities.
 
 Dataset 
 ------------------- 
